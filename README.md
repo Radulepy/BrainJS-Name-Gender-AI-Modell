@@ -1,7 +1,7 @@
 # BrainJS-Name-Gender-AI-Modell
 AI Modell trained on Romanian names to predict the gender from a given name.
 
-It uses Brain.Js library to use the Romanian names and train a modell which predicts a gender from any given names.
+It uses Brain.Js library to use the Romanian names (`names.js`) and train a modell which predicts a gender from any given names.
 Steps:
 - pre-trains the modell and exports the network states JSON file into the `output` folder
 - uses the pre-trained network modell to run the test batch.
