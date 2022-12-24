@@ -12,3 +12,10 @@ To run the app: `Node app.js`
 ## To Re-train the modell:
 Just comment the rows 25-28 and un-comment the rows 31-32 to train the modell for your specific config file.
 
+## Usability:
+It can be used to help a user choose a gender for a character based on the input name. 
+For example: make the `male button` bigger if the input name has a greater probability to be Male gender
+
+## Disclaimer:
+Only real genders used: MALE / FEMALE :-) 
+
